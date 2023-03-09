@@ -5,7 +5,7 @@
 package cuentas;
 
 /**
- *
+ * Clase para almacenar datos de la cuenta
  * @author Nico
  */
 public class CCuenta {
@@ -58,7 +58,7 @@ public class CCuenta {
     public double getTipoInterés() {
         return tipoInterés;
     }
-
+    
     /**
      * @param tipoInterés the tipoInterés to set
      */
